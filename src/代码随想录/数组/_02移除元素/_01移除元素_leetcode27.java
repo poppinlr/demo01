@@ -1,6 +1,6 @@
-package 代码随想录;
+package 代码随想录.数组._02移除元素;
 
-public class 数组02_移除元素_leetcode27 {
+public class _01移除元素_leetcode27 {
 
     public static void main(String[] args) {
         System.out.println(removeElement(new int[] {2,2,2,3,3}, 2));

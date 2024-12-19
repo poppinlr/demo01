@@ -1,6 +1,6 @@
-package 代码随想录;
+package 代码随想录.数组._05长度最小的字数组;
 
-public class 数组04_长度最小的字数组_leetcode209 {
+public class _01长度最小的字数组_leetcode209 {
     public static void main(String[] args) {
         int val = minSubArrayLen(7, new int[] {1,1,1,1,1,1,1,1});
         System.out.println(val);

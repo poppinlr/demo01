@@ -1,8 +1,6 @@
-package 代码随想录;
+package 代码随想录.数组._03有序数组的平方;
 
-import java.util.Arrays;
-
-public class 数组03_有序数组的平方_leetcode977 {
+public class _03有序数组的平方_leetcode977 {
 
     public static void main(String[] args) {
         sortedSquares(new int[]{-4,-3,-2,1,2,3,4});
